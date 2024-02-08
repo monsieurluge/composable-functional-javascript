@@ -1,0 +1,19 @@
+{
+  "name": "composable-functional-javascript",
+  "version": "1.0.0",
+  "description": "Exercices through the course followed on [egghead.io](https://egghead.io/courses/professor-frisby-introduces-composable-functional-javascript) by Professor Frisby.",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/monsieurluge/composable-functional-javascript.git"
+  },
+  "author": "monsieurluge",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/monsieurluge/composable-functional-javascript/issues"
+  },
+  "homepage": "https://github.com/monsieurluge/composable-functional-javascript#readme",
+  "devDependencies": {
+    "immutable": "^5.0.0-beta.5"
+  }
+}
