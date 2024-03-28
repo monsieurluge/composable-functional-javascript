@@ -14,6 +14,10 @@
   },
   "homepage": "https://github.com/monsieurluge/composable-functional-javascript#readme",
   "devDependencies": {
-    "immutable": "^5.0.0-beta.5"
+    "immutable": "^5.0.0-beta.5",
+    "immutable-ext": "^1.1.5"
+  },
+  "dependencies": {
+    "data.task": "^3.1.2"
   }
 }
